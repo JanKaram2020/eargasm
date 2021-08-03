@@ -1,0 +1,701 @@
+[
+  {
+    "name": "Jumpsuit",
+    "link": "https://www.youtube.com/watch?v=UOUBW8bkjQ4",
+    "artist": "21 Pilots",
+    "album": "Trench",
+    "genre": "Rock"
+  },
+  {
+    "name": "Trees",
+    "link": "https://www.youtube.com/watch?v=ygO2lz3XeSU",
+    "artist": "21 Pilots",
+    "album": "Vessel",
+    "genre": "Pop"
+  },
+  {
+    "name": "Heathens",
+    "link": "https://www.youtube.com/watch?v=UprcpdwuwCg",
+    "artist": "21 Pilots",
+    "album": "Suicide Squad: The album",
+    "genre": "Pop"
+  },
+  {
+    "name": "Car radio",
+    "link": "https://www.youtube.com/watch?v=92XVwY54h5k",
+    "artist": "21 Pilots",
+    "album": "Vessel",
+    "genre": "Pop"
+  },
+  {
+    "name": "Ride",
+    "link": "https://www.youtube.com/watch?v=Pw-0pbY9JeU",
+    "artist": "21 Pilots",
+    "album": "Blurryface",
+    "genre": "Rock"
+  },
+  {
+    "name": "I got you",
+    "link": "https://youtu.be/uEJuoEs1UxY",
+    "artist": "Bebe Rexha",
+    "album": "Expectations",
+    "genre": "Pop"
+  },
+  {
+    "name": "I am a mess",
+    "link": "https://youtu.be/LdH7aFjDzjI",
+    "artist": "Bebe Rexha",
+    "genre": "Pop"
+  },
+  {
+    "name": "Ferrari",
+    "link": "https://youtu.be/nyRawESIuy4",
+    "artist": "Bebe Rexha",
+    "album": "Expectations",
+    "genre": "Pop"
+  },
+  {
+    "name": "Shining star",
+    "link": "https://youtu.be/hK9s8_nu4N8",
+    "artist": "Bebe Rexha",
+    "album": "Expectations",
+    "genre": "Pop"
+  },
+  {
+    "name": "Mine",
+    "link": "https://youtu.be/EwVeBCi1-zc",
+    "artist": "Bebe Rexha",
+    "album": "Expectations",
+    "genre": "Pop"
+  },
+  {
+    "name": "Everglow",
+    "link": "https://youtu.be/xn_1hFdE-5g",
+    "artist": "ColdPlay",
+    "album": "A head full of Dreams",
+    "genre": "Pop"
+  },
+  {
+    "name": "Miracles",
+    "link": "https://youtu.be/7atDQreame4",
+    "artist": "ColdPlay",
+    "album": "Unbroken: the movie",
+    "genre": "Pop"
+  },
+  {
+    "name": "A Sky Full Of Stars",
+    "link": "https://youtu.be/zp7NtW_hKJI",
+    "artist": "ColdPlay",
+    "album": "Ghost Stories",
+    "genre": "Pop"
+  },
+  {
+    "name": "Paradise",
+    "link": "https://youtu.be/1G4isv_Fylg",
+    "artist": "ColdPlay",
+    "album": "Mylo Xyloto",
+    "genre": "Pop"
+  },
+  {
+    "name": "Yellow",
+    "link": "https://youtu.be/yKNxeF4KMsY",
+    "artist": "ColdPlay",
+    "album": "Parachutes",
+    "genre": "Pop"
+  },
+  {
+    "name": "Solo",
+    "link": "https://www.youtube.com/watch?v=8JnfIa84TnU",
+    "artist": "Demi Lovato",
+    "album": "Single",
+    "genre": "Rock"
+  },
+  {
+    "name": "Cool For The Summer",
+    "link": "https://www.youtube.com/watch?v=il9nqWw9W3Y",
+    "artist": "Demi Lovato",
+    "album": "Confident",
+    "genre": "Rock"
+  },
+  {
+    "name": "Tell Me You Love Me",
+    "link": "https://www.youtube.com/watch?v=SM1w9PEQOE8",
+    "artist": "Demi Lovato",
+    "album": "Tell Me You Love Me",
+    "genre": "Pop"
+  },
+  {
+    "name": "Sorry not sorry",
+    "link": "https://www.youtube.com/watch?v=-MsvER1dpjM",
+    "artist": "Demi Lovato",
+    "album": "Tell Me You Love Me",
+    "genre": "Pop"
+  },
+  {
+    "name": "Confident",
+    "link": "https://www.youtube.com/watch?v=cwLRQn61oUY",
+    "artist": "Demi Lovato",
+    "album": "Confident",
+    "genre": "Rock"
+  },
+  {
+    "name": "Venom",
+    "link": "https://www.youtube.com/watch?v=8CdcCD5V-d8",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "genre": "hip hop"
+  },
+  {
+    "name": "Rap God",
+    "link": "https://www.youtube.com/watch?v=XbGs_qK2PQA",
+    "artist": "Eminem",
+    "album": "Marshall Mathers LP 2",
+    "genre": "hip hop"
+  },
+  {
+    "name": "The Real Slim Shady",
+    "link": "https://www.youtube.com/watch?v=eJO5HU_7_1w",
+    "artist": "Eminem",
+    "album": "Marshall Mathers LP",
+    "genre": "hip hop"
+  },
+  {
+    "name": "Fall",
+    "link": "https://www.youtube.com/watch?v=MfTbHITdhEI",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "genre": "hip hop"
+  },
+  {
+    "name": "Stan",
+    "link": "https://www.youtube.com/watch?v=aSLZFdqwh7E",
+    "artist": "Eminem",
+    "album": "Marshall Mathers LP",
+    "genre": "hip hop"
+  },
+  {
+    "name": "Natural",
+    "link": "https://www.youtube.com/watch?v=0I647GU3Jsc",
+    "artist": "Imagine Dragons",
+    "album": "Origins",
+    "genre": "Rock"
+  },
+  {
+    "name": "Machine",
+    "link": "https://www.youtube.com/watch?v=BahtnT13vH8",
+    "artist": "Imagine Dragons",
+    "album": "Origins",
+    "genre": "Rock"
+  },
+  {
+    "name": "Bad Liar",
+    "link": "https://www.youtube.com/watch?v=a40XLhSUREo",
+    "artist": "Imagine Dragons",
+    "album": "Origins",
+    "genre": "Rock"
+  },
+  {
+    "name": "Next To Me",
+    "link": "https://www.youtube.com/watch?v=-C_rvt0SwLE",
+    "artist": "Imagine Dragons",
+    "album": "Evolve",
+    "genre": "Pop"
+  },
+  {
+    "name": "Believer",
+    "link": "https://www.youtube.com/watch?v=7wtfhZwyrcc",
+    "artist": "Imagine Dragons",
+    "album": "Evolve",
+    "genre": "Rock"
+  },
+  {
+    "name": "Say you won't let go",
+    "link": "https://www.youtube.com/watch?v=0yW7w8F2TVA",
+    "artist": "James Arthur",
+    "album": "Back from the Edge",
+    "genre": "Pop"
+  },
+  {
+    "name": "Impossible",
+    "link": "https://www.youtube.com/watch?v=Mhj15W23IjA",
+    "artist": "James Arthur",
+    "album": "James Arthur (album)",
+    "genre": "Pop"
+  },
+  {
+    "name": "Empty Space",
+    "link": "https://www.youtube.com/watch?v=0VD9x50vh8o",
+    "artist": "James Arthur",
+    "album": "You",
+    "genre": "Pop"
+  },
+  {
+    "name": "Naked",
+    "link": "https://www.youtube.com/watch?v=WXyLdg4mJxo",
+    "artist": "James Arthur",
+    "album": "You",
+    "genre": "Pop"
+  },
+  {
+    "name": "Can I be him",
+    "link": "https://www.youtube.com/watch?v=w17zHlwlEP0",
+    "artist": "James Arthur",
+    "album": "Back from the Edge",
+    "genre": "Soul"
+  },
+  {
+    "name": "Way Down We Go",
+    "link": "https://www.youtube.com/watch?v=0-7IHOXkiV8",
+    "artist": "Kaleo",
+    "album": "A/B",
+    "genre": "Rock"
+  },
+  {
+    "name": "I Can't Go On Without You",
+    "link": "https://www.youtube.com/watch?v=NcXsK_u4ixI",
+    "artist": "Kaleo",
+    "album": "A/B",
+    "genre": "Rock"
+  },
+  {
+    "name": " All The Pretty Girls",
+    "link": "https://www.youtube.com/watch?v=FNwgOkl5nRY",
+    "artist": "Kaleo",
+    "album": "A/B",
+    "genre": "Rock"
+  },
+  {
+    "name": "Save Yourself",
+    "link": "https://www.youtube.com/watch?v=oCi0RHLrauU",
+    "artist": "Kaleo",
+    "album": "A/B",
+    "genre": "Rock"
+  },
+  {
+    "name": "No Good",
+    "link": "https://www.youtube.com/watch?v=HC6QJsxRypQ",
+    "artist": "Kaleo",
+    "album": "A/B",
+    "genre": "Rock"
+  },
+  {
+    "name": "Born To Die",
+    "link": "https://www.youtube.com/watch?v=Bag1gUxuU0g",
+    "artist": "Lana Del Ray",
+    "album": "Born to Die",
+    "genre": "Pop"
+  },
+  {
+    "name": "Mariners Apartment Complex",
+    "link": "https://www.youtube.com/watch?v=1uFv9Ts7Sdw",
+    "artist": "Lana Del Ray",
+    "album": "Norman Fucking Rockwell!",
+    "genre": "Pop"
+  },
+  {
+    "name": "Young and Beautiful",
+    "link": "https://www.youtube.com/watch?v=o_1aF54DO60",
+    "artist": "Lana Del Ray",
+    "album": "The Great Gatsby: The album",
+    "genre": "Pop"
+  },
+  {
+    "name": "Summer time sadness",
+    "link": "https://www.youtube.com/watch?v=TdrL3QxjyVw",
+    "artist": "Lana Del Ray",
+    "album": "Born to Die",
+    "genre": "Pop"
+  },
+  {
+    "name": "Lust for life",
+    "link": "https://www.youtube.com/watch?v=eP4eqhWc7sI",
+    "artist": "Lana Del Ray",
+    "album": "Lust for Life",
+    "genre": "Pop"
+  },
+  {
+    "name": "Numb",
+    "link": "https://www.youtube.com/watch?v=kXYiU_JCYtU",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": "Metal"
+  },
+  {
+    "name": "Somewhere I belong",
+    "link": "https://www.youtube.com/watch?v=zsCD5XCu6CM",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": "Rock"
+  },
+  {
+    "name": "In The End",
+    "link": "https://www.youtube.com/watch?v=eVTXPUF4Oz4",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": "Rock"
+  },
+  {
+    "name": "Castle Of Glass",
+    "link": "https://www.youtube.com/watch?v=ScNNfyq3d_w",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "genre": "Rock"
+  },
+  {
+    "name": "One More Light",
+    "link": "https://www.youtube.com/watch?v=Tm8LGxTLtQk",
+    "artist": "Linkin Park",
+    "album": "One More Light",
+    "genre": "Rock"
+  },
+  {
+    "name": "Mala Mia",
+    "link": "https://www.youtube.com/watch?v=Q527XDLEpfU",
+    "artist": "Maluma",
+    "album": "Single",
+    "genre": "Latin"
+  },
+  {
+    "name": "Felices Los 4",
+    "link": "https://www.youtube.com/watch?v=zbajp0zS3Pk",
+    "artist": "Maluma",
+    "album": "Single",
+    "genre": "Latin"
+  },
+  {
+    "name": "Corazon",
+    "link": "https://www.youtube.com/watch?v=GmHrjFIWl6U",
+    "artist": "Maluma",
+    "album": "Single",
+    "genre": "Latin"
+  },
+  {
+    "name": "Elprestamo",
+    "link": "https://www.youtube.com/watch?v=-BQJo3vK8O8",
+    "artist": "Maluma",
+    "album": "Single",
+    "genre": "Latin"
+  },
+  {
+    "name": "Sin Contrato",
+    "link": "https://www.youtube.com/watch?v=9xByMBYDRmY",
+    "artist": "Maluma",
+    "album": "Pretty Boy, Dirty Boy",
+    "genre": "Latin"
+  },
+  {
+    "name": "Girls Like You",
+    "link": "https://www.youtube.com/watch?v=aJOTlE1K90k",
+    "artist": "Maroon 5",
+    "album": "Red Pill Blues",
+    "genre": "Pop"
+  },
+  {
+    "name": "Animals",
+    "link": "https://www.youtube.com/watch?v=qpgTC9MDx1o",
+    "artist": "Maroon 5",
+    "album": "Single",
+    "genre": "Pop"
+  },
+  {
+    "name": "She Will Be Loved",
+    "link": "https://www.youtube.com/watch?v=nIjVuRTm-dc",
+    "artist": "Maroon 5",
+    "album": "Songs About Jane",
+    "genre": "Pop"
+  },
+  {
+    "name": "PayPhone",
+    "link": "https://www.youtube.com/watch?v=KRaWnd3LJfs",
+    "artist": "Maroon 5",
+    "album": "Overexposed",
+    "genre": "Pop"
+  },
+  {
+    "name": "Cold",
+    "link": "https://www.youtube.com/watch?v=XatXy6ZhKZw",
+    "artist": "Maroon 5",
+    "album": "Red Pill Blues",
+    "genre": "Pop"
+  },
+  {
+    "name": "Start Again",
+    "link": "https://www.youtube.com/watch?v=y-2VKeDBPkw",
+    "artist": "One Republic",
+    "album": "13 Reasons Why: Season 2",
+    "genre": "Pop"
+  },
+  {
+    "name": "If I Lose Myself",
+    "link": "https://www.youtube.com/watch?v=TGx0rApSk6w",
+    "artist": "One Republic",
+    "album": "Native",
+    "genre": "Pop"
+  },
+  {
+    "name": "Connection",
+    "link": "https://www.youtube.com/watch?v=iJUM11goXAU",
+    "artist": "One Republic",
+    "album": "Single",
+    "genre": "Pop"
+  },
+  {
+    "name": "I Lived",
+    "link": "https://www.youtube.com/watch?v=z0rxydSolwU",
+    "artist": "One Republic",
+    "album": "Native",
+    "genre": "Pop"
+  },
+  {
+    "name": "Wherever I Go",
+    "link": "https://www.youtube.com/watch?v=OXWrjWDQh7Q",
+    "artist": "One Republic",
+    "album": "Oh My My",
+    "genre": "Pop"
+  },
+  {
+    "name": "High Hopes",
+    "link": "https://www.youtube.com/watch?v=IPXIgEAGe4U",
+    "artist": "Panic! at the disco",
+    "album": "Pray for the Wicked",
+    "genre": "Pop"
+  },
+  {
+    "name": "Say Amen",
+    "link": "https://www.youtube.com/watch?v=jVXauWq9Hwg",
+    "artist": "Panic! at the disco",
+    "album": "Pray for the Wicked",
+    "genre": "Pop"
+  },
+  {
+    "name": "I Write Sins Not Tragedies",
+    "link": "https://www.youtube.com/watch?v=vc6vs-l5dkc",
+    "artist": "Panic! at the disco",
+    "album": "A Fever You Can't Sweat Out",
+    "genre": "Pop"
+  },
+  {
+    "name": "Death Of Bachelor",
+    "link": "https://www.youtube.com/watch?v=R03cqGg40GU",
+    "artist": "Panic! at the disco",
+    "album": "Death of a Bachelor",
+    "genre": "Pop"
+  },
+  {
+    "name": "This Is Gospel",
+    "link": "https://www.youtube.com/watch?v=tGE381tbQa8",
+    "artist": "Panic! at the disco",
+    "album": "Too Weird to Live, Too Rare to Die!",
+    "genre": "Pop"
+  },
+  {
+    "name": "Better Now",
+    "link": "https://www.youtube.com/watch?v=UYwF-jdcVjY",
+    "artist": "Post Malone",
+    "album": "Beerbongs & Bentleys",
+    "genre": "hip hop"
+  },
+  {
+    "name": "Rockstar",
+    "link": "https://www.youtube.com/watch?v=UceaB4D0jpo",
+    "artist": "Post Malone",
+    "album": "Beerbongs & Bentleys",
+    "genre": "hip hop"
+  },
+  {
+    "name": "SunFlower",
+    "link": "https://www.youtube.com/watch?v=ApXoWvfEYVU",
+    "artist": "Post Malone",
+    "album": "Hollywood's Bleeding",
+    "genre": "hip hop"
+  },
+  {
+    "name": "Psycho",
+    "link": "https://www.youtube.com/watch?v=au2n7VVGv_c",
+    "artist": "Post Malone",
+    "album": "Beerbongs & Bentleys",
+    "genre": "hip hop"
+  },
+  {
+    "name": "Congratulations",
+    "link": "https://www.youtube.com/watch?v=SC4xMk98Pdc",
+    "artist": "Post Malone",
+    "album": "Stoney",
+    "genre": "hip hop"
+  },
+  {
+    "name": "Let You Love Me",
+    "link": "https://www.youtube.com/watch?v=XCQK6LmhYqc",
+    "artist": "Rita Ora",
+    "album": "Phoenix",
+    "genre": "Pop"
+  },
+  {
+    "name": "Your Song",
+    "link": "https://www.youtube.com/watch?v=4vAf1esMT8s",
+    "artist": "Rita Ora",
+    "album": "Phoenix",
+    "genre": "Pop"
+  },
+  {
+    "name": "Girls",
+    "link": "https://www.youtube.com/watch?v=ExJmET8boVw",
+    "artist": "Rita Ora",
+    "album": "Phoenix",
+    "genre": "Pop"
+  },
+  {
+    "name": "Anywhere",
+    "link": "https://www.youtube.com/watch?v=ksdAs4LBRq8",
+    "artist": "Rita Ora",
+    "album": "Phoenix",
+    "genre": "Pop"
+  },
+  {
+    "name": "Lonely Together",
+    "link": "https://www.youtube.com/watch?v=vQ3XgMKAgxc",
+    "artist": "Rita Ora",
+    "album": "Phoenix",
+    "genre": "Pop"
+  },
+  {
+    "name": "Wolves",
+    "link": "https://www.youtube.com/watch?v=cH4E_t3m3xM",
+    "artist": "Selena Gomez",
+    "album": "Rare",
+    "genre": "Pop"
+  },
+  {
+    "name": "Back To You",
+    "link": "https://www.youtube.com/watch?v=VY1eFxgRR-k",
+    "artist": "Selena Gomez",
+    "album": "13 Reasons Why: Season 2",
+    "genre": "Pop"
+  },
+  {
+    "name": "Good For You",
+    "link": "https://www.youtube.com/watch?v=1TsVjvEkc4s",
+    "artist": "Selena Gomez",
+    "album": "Revival",
+    "genre": "Pop"
+  },
+  {
+    "name": "Same Old Love",
+    "link": "https://www.youtube.com/watch?v=9h30Bx4Klxg",
+    "artist": "Selena Gomez",
+    "album": "Revival",
+    "genre": "Pop"
+  },
+  {
+    "name": "Bad Liar",
+    "link": "https://www.youtube.com/watch?v=NZKXkD6EgBk",
+    "artist": "Selena Gomez",
+    "album": "Rare",
+    "genre": "Pop"
+  },
+  {
+    "name": "Chandelier",
+    "link": "https://www.youtube.com/watch?v=2vjPBrBU-TM",
+    "artist": "Sia",
+    "album": "1000 Forms of Fear",
+    "genre": "Pop"
+  },
+  {
+    "name": "Bird Set Free",
+    "link": "https://www.youtube.com/watch?v=CqNp-KXiAHo",
+    "artist": "Sia",
+    "album": "This Is Acting",
+    "genre": "Pop"
+  },
+  {
+    "name": "I'm Still Here",
+    "link": "https://www.youtube.com/watch?v=Jrgbjk45lFA",
+    "artist": "Sia",
+    "album": "TBA",
+    "genre": "Pop"
+  },
+  {
+    "name": "Titanium",
+    "link": "https://www.youtube.com/watch?v=JRfuAukYTKg",
+    "artist": "Sia",
+    "album": "Nothing but the Beat",
+    "genre": "Pop"
+  },
+  {
+    "name": "Soon We'll Be Found",
+    "link": "https://www.youtube.com/watch?v=t1x8DMfbYN4",
+    "artist": "Sia",
+    "album": "Some People Have Real Problems",
+    "genre": "Pop"
+  },
+  {
+    "name": "Feel Invincible",
+    "link": "https://www.youtube.com/watch?v=Qzw6A2WC5Qo",
+    "artist": "Skillet",
+    "album": "Unleashed",
+    "genre": "Metal"
+  },
+  {
+    "name": "Hero",
+    "link": "https://www.youtube.com/watch?v=uGcsIdGOuZY",
+    "artist": "Skillet",
+    "album": "Awake",
+    "genre": "Metal"
+  },
+  {
+    "name": "Comatose",
+    "link": "https://www.youtube.com/watch?v=JZNCrLV8W_M",
+    "artist": "Skillet",
+    "album": "Comatose",
+    "genre": "Metal"
+  },
+  {
+    "name": "Monster",
+    "link": "https://www.youtube.com/watch?v=1mjlM_RnsVE",
+    "artist": "Skillet",
+    "album": "Awake",
+    "genre": "Metal"
+  },
+  {
+    "name": "Not Gonna Die",
+    "link": "https://www.youtube.com/watch?v=fgmpWkUcpjo",
+    "artist": "Skillet",
+    "album": "Rise",
+    "genre": "Metal"
+  },
+  {
+    "name": "Good Years",
+    "link": "https://www.youtube.com/watch?v=EB32NhsQGJA",
+    "artist": "Zayn Malik",
+    "album": "Icarus Falls",
+    "genre": "R&B"
+  },
+  {
+    "name": "Dusk Till Dawn",
+    "link": "https://www.youtube.com/watch?v=tt2k8PGm-TI",
+    "artist": "Zayn Malik",
+    "album": "Icarus Falls",
+    "genre": ["R&B", " alternative", "R&B", "electro-pop"]
+  },
+  {
+    "name": "Let Me",
+    "link": "https://www.youtube.com/watch?v=J-dv_DcDD_A",
+    "artist": "Zayn Malik",
+    "album": "Icarus Falls",
+    "genre": "R&B"
+  },
+  {
+    "name": "Pillow Talk",
+    "link": "https://www.youtube.com/watch?v=C_3d6GntKbk",
+    "artist": "Zayn Malik",
+    "album": "Mind of Mine",
+    "genre": "R&B"
+  },
+  {
+    "name": "Fingers",
+    "link": "https://www.youtube.com/watch?v=9cmPcH38wjc",
+    "artist": "Zayn Malik",
+    "album": "Icarus Falls",
+    "genre": "R&B"
+  }
+]

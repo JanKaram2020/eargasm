@@ -1,0 +1,82 @@
+[
+  {
+    "name": "21 pilots",
+    "photo": "https://data.whicdn.com/images/268678214/original.jpg"
+  },
+  {
+    "name": "Bebe Rexha",
+    "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bebe-rexha-attends-the-61st-annual-grammy-awards-at-staples-news-photo-1097522886-1555431090.jpg?crop=0.69336xw:1xh;center,top&resize=640:*"
+  },
+  {
+    "name": "ColdPlay",
+    "photo": "https://consequenceofsound.net/wp-content/uploads/2015/02/coldplay.jpg?quality=80&w=400&h=400&crop=1"
+  },
+  {
+    "name": "Demi Lovato",
+    "photo": "https://media1.popsugar-assets.com/files/thumbor/vjNMrUdWvM_wIzr3Y-FcRLKfUvM/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/01/11/857/n/37139775/7009e25f_edit_img_image_39688081_1452131515/i/How-Get-Brows-Like-Demi-Lovato.png"
+  },
+  {
+    "name": "Eminem",
+    "photo": "data:image/jpeg;base64,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"
+  },
+  {
+    "name": "Imagine Dragons",
+    "photo": "https://i.scdn.co/image/01b36ca0f45f2f15117022a2754287a6ca1acdcc"
+  },
+  {
+    "name": "James Arthur",
+    "photo": "https://healthyton.com/wp-content/uploads/2019/11/James-Arthur.jpg"
+  },
+  {
+    "name": "Kaleo",
+    "photo": "https://d3ne5nhbe3knix.cloudfront.net/s3/ttf-media/images/event/kaleo.jpg?width=750&height=750&mode=crop&anchor=topcenter&scale=both"
+  },
+  {
+    "name": "Lana Del Ray",
+    "photo": "https://consequenceofsound.net/wp-content/uploads/2019/10/lana-del-rey.png?w=400&h=400&crop=1"
+  },
+  {
+    "name": "Linkin Park",
+    "photo": "https://e-cdns-images.dzcdn.net/images/artist/4eb6517a096da2ccd8768f1513593cb8/500x500.jpg"
+  },
+  {
+    "name": "Maluma",
+    "photo": "https://lastfm.freetls.fastly.net/i/u/770x0/c1b7ed3dda503969b1bb2bd8c36dab31.jpg"
+  },
+  {
+    "name": "Maroon 5",
+    "photo": "https://a10.gaanacdn.com/images/artists/5/7105/crop_480x480_7105.jpg"
+  },
+  {
+    "name": "One Republic",
+    "photo": "https://pbs.twimg.com/profile_images/1238313639192350720/yg3-GKKB_400x400.jpg"
+  },
+  {
+    "name": "Panic! at the Disco",
+    "photo": "https://i1.sndcdn.com/avatars-000618724824-op1kk8-t500x500.jpg"
+  },
+  {
+    "name": "Post Malone",
+    "photo": "https://i.etsystatic.com/10167647/r/il/891c10/1760537225/il_570xN.1760537225_rhfa.jpg"
+  },
+  {
+    "name": "Rita Ora",
+    "photo": "https://pbs.twimg.com/profile_images/1086942338738515969/IQ_HrTk3_400x400.jpg"
+  },
+  {
+    "name": "Selena Gomez",
+    "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/selena-gomez-attends-the-premiere-of-universal-pictures-news-photo-1578772911.jpg?crop=1.00xw:0.667xh;0,0.0465xh&resize=480:*"
+  },
+  {
+    "name": "Sia",
+    "photo": "https://static.arageek.com/wp-content/uploads/2019/03/640_sia_489688127.jpg"
+  },
+  {
+    "name": "Skillet",
+    "photo": "https://fstvls.s3.amazonaws.com/28/27573.jpeg"
+  },
+  {
+    "name": "Zayn Malik",
+    "photo": "https://media1.popsugar-assets.com/files/thumbor/hY4GhF14JmUzQGiMFqc01KmHVPA/8x154:1993x2139/fit-in/500x500/filters:format_auto-!!-:strip_icc-!!-/2020/02/24/876/n/1922398/46fadbc65e542bc2f40127.90581595_/i/Zayn-Malik.jpg"
+  }
+]
